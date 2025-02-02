@@ -1,0 +1,10 @@
+com\articleservice\articles\controller\ArticleController.class
+com\articleservice\articles\model\Article.class
+com\articleservice\articles\dto\ReportResponse.class
+com\articleservice\articles\exception\ArticleNotFoundException.class
+com\articleservice\articles\ArticleApplication.class
+com\articleservice\articles\exception\GlobalExceptionHandler.class
+com\articleservice\articles\service\ArticleService.class
+com\articleservice\articles\exception\InvalidRequestException.class
+com\articleservice\articles\repository\ArticleRepository.class
+com\articleservice\articles\exception\DuplicateArticleException.class

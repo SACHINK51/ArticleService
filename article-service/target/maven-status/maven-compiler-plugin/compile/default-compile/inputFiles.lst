@@ -1,0 +1,10 @@
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\ArticleApplication.java
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\repository\ArticleRepository.java
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\exception\InvalidRequestException.java
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\exception\ArticleNotFoundException.java
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\model\Article.java
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\exception\DuplicateArticleException.java
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\exception\GlobalExceptionHandler.java
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\dto\ReportResponse.java
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\controller\ArticleController.java
+C:\Users\Dell\eclipse-workspace\article-service\src\main\java\com\articleservice\articles\service\ArticleService.java
